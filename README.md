@@ -43,9 +43,9 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 ### My Stats
 
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-shubham-0&show_icons=true&theme=dark)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinGeejo&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-shubham-0&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinGeejo&theme=dark)
 
 <p align="center"> 
   Visitor count<br>
