@@ -4,7 +4,7 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 
 ## About Me
 
-- 🔭 I’m currently working on some personal projects.
+<!-- -- 🔭 I’m currently working on some personal projects. -->
 - 💻 Created & Actively Contributed as one of the Core Team Member to the complete overhaul and designing of Computer Society of India - DBIT website [https://www.csidbit.netlify.app](https://csidbit.netlify.app/)
 - 👯 I’m looking to collaborate on any web development or java projects.
 - 🌱 I’m currently learning  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
