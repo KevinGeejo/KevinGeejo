@@ -40,11 +40,8 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=ffffff)](https://app.netlify.com/)
 
 
-### My Stats
 
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinGeejo&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=ruby,makefile,scss&theme=dark)
 
 <p align="center"> 
   Visitor count<br>
