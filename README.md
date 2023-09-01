@@ -7,7 +7,7 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 - 🔭 I’m currently doing an intenship at <a href="https://www.linkedin.com/company/cerelabs/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BWPvT12rLSDSWu5mefM45sg%3D%3D">CereLabs</a>. 
 - 💻 Created & Actively Contributed as a Core Team Member for the complete overhaul and designing of Computer Society of India - DBIT website [https://www.csidbit.netlify.app](https://csidbit.netlify.app/)
 - 🔭 https://github.com/CSI-DBIT 
-- 👯 I’m looking to collaborate on any web development or java projects.
+<!-- - 👯 I’m looking to collaborate on any web development or java projects.-->
 - 🌱 I’m currently learning  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - 📫 How to reach me [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:kevingeejo02@gmail.com) [![Linkedin](https://img.shields.io/badge/linked-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kevin-geejo/) 
 <!-- - [![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=ffffff)]() -->
