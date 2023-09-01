@@ -1,6 +1,6 @@
 # Hi there, I'm Kevin  [<img src="./wave.gif " width="50"/>]() 
 
-A student developer from Mumbai, India. Enthusiastic programmer. Looking for projects in full stack/ App development, but willing to work on projects of any domain.
+A student developer from Mumbai, India. Enthusiastic programmer. Looking for projects in full stack/ Web development, but willing to work on projects of any domain.
 
 ## About Me
 
