@@ -5,6 +5,7 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 ## About Me
 
 - 🔭 I’m currently working on some personal projects.
+- Actively Contributed as one of the Head Core Member to the designing and complete overhaul of Computer Society of India - DBIT website https://www.csidbit.netlify.app
 - 👯 I’m looking to collaborate on any web development or python projects.
 <!-- - 🌱 I’m currently learning [![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)](https://www.rust-lang.org)  -->
 - 📫 How to reach me [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:kevingeejo02@gmail.com) [![Linkedin](https://img.shields.io/badge/linked-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kevin-geejo/) 
