@@ -56,5 +56,4 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 [<img align="left" alt="Doodleykev | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/royal-blue/twitter-xxl.png" />][twitter]
 [<img align="left" alt="kevin-geejo | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />][linkedin]
 
-[twitter]: https://twitter.com/Doodleykev
 [linkedin]: https://www.linkedin.com/in/kevin-geejo/
