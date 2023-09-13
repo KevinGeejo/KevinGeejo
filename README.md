@@ -18,6 +18,7 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.java.com)
 <!-- [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)](https://www.rust-lang.org) -->
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)](https://reactjs.org/)
