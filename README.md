@@ -8,14 +8,13 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 - 💻 Created & Actively Contributed as a Core Team Member for the complete overhaul and designing of Computer Society of India - DBIT website [https://www.csi.dbit.in](https://csi.dbit.in/)
 - 🔭 https://github.com/CSI-DBIT 
 <!-- - 👯 I’m looking to collaborate on any web development or java projects.-->
-- 🌱 I’m currently learning  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- 🌱 I’m currently learning  [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 - 📫 How to reach me [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:kevingeejo02@gmail.com) [![Linkedin](https://img.shields.io/badge/linked-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kevin-geejo/) 
 <!-- - [![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=ffffff)]() -->
 
 ## Technology Stack & Tools
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.java.com)
 <!-- [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)](https://www.rust-lang.org) -->
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
