@@ -2,6 +2,9 @@
 
 A student developer from Mumbai, India. Enthusiastic programmer. Looking for projects in full stack/ Web development, but willing to work on projects of any domain.
 
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            
 ## About Me
 
 - 🔭 I’m currently doing an intenship at <a href="https://www.linkedin.com/company/cerelabs/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BWPvT12rLSDSWu5mefM45sg%3D%3D">CereLabs</a>. 
