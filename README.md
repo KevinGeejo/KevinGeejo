@@ -2,7 +2,7 @@
 
 A student developer from Mumbai, India. Enthusiastic programmer. Looking for projects in full stack/ Web development, but willing to work on projects of any domain.
 
-![Snake animation](https://github.com/KevinGeejo/KevinGeejo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kevingeejo/kevingeejo/blob/output/github-contribution-grid-snake.gif)
             
 ## About Me
 
