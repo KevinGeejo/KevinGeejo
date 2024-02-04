@@ -2,13 +2,6 @@
 
 A student developer from Mumbai, India. Enthusiastic programmer. Looking for projects in full stack/ Web development, but willing to work on projects of any domain.
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kevingeejo/kevingeejo/output/github-contribution-grid-snake-dark.svg" />
-  <br/><br/><br/>
-</div>
-
             
 ## About Me
 
@@ -63,3 +56,11 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 [<img align="left" alt="kevin-geejo | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/kevin-geejo/
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kevingeejo/kevingeejo/output/github-contribution-grid-snake-dark.svg" />
+  <br/><br/><br/>
+</div>
+
