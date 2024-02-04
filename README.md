@@ -28,7 +28,7 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 <div align="center">
   <h2> My Contributions </h2>
   <br>
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kevingeejo/kevingeejo/output/github-contribution-grid-snake-dark.svg" />
+ <img target="_blank" alt="snake eating my contributions" src="https://raw.githubusercontent.com/kevingeejo/kevingeejo/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
 </div>
 
