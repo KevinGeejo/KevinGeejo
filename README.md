@@ -58,7 +58,7 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 [linkedin]: https://www.linkedin.com/in/kevin-geejo/
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kevingeejo/kevingeejo/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
