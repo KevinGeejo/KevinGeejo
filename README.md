@@ -5,11 +5,7 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-  
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kevingeejo/kevingeejo/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
 </div>
 
