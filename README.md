@@ -16,21 +16,21 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
-
 <br/>
-<hr/>
+
+
+
+
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kevingeejo/kevingeejo/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
 </div>
-
 
 
 
@@ -44,11 +44,4 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 [<img align="left" alt="kevin-geejo | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/kevin-geejo/
-
-<div align="center">
-  <h2> My Contributions </h2>
-  <br>
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kevingeejo/kevingeejo/output/github-contribution-grid-snake-dark.svg" />
-  <br/><br/><br/>
-</div>
 
