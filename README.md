@@ -12,7 +12,7 @@ SDE @SI Mumbai, India. Enthusiastic programmer.
             
 ## About Me
 
-- 🔭 I’m currently doing an intenship at <a href="https://www.linkedin.com/company/cerelabs/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BWPvT12rLSDSWu5mefM45sg%3D%3D">CereLabs</a>. 
+
 - 💻 Created & Actively Contributed as a Core Team Member for the complete overhaul of Computer Society of India - DBIT website [https://www.csi.dbit.in](https://csi.dbit.in/)
 - 🔭 https://github.com/CSI-DBIT 
 <!-- - 👯 I’m looking to collaborate on any web development or java projects.-->
