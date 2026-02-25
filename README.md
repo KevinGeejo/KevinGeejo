@@ -1,6 +1,6 @@
 # Hi there, I'm Kevin  [<img src="./wave.gif " width="50"/>]() 
 
-SDE @SI Mumbai, India. Enthusiastic programmer. 
+SDE. 
 
 
 <div align="center">
