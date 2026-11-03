@@ -12,7 +12,7 @@ SDE.
             
 ## About Me
 
-
+- 💻 Software Engineer @Sportz Interactive 
 - 💻 Created & Actively Contributed as a Core Team Member for the complete overhaul of Computer Society of India - DBIT website [https://www.csi.dbit.in](https://csi.dbit.in/)
 - 🔭 https://github.com/CSI-DBIT 
 <!-- - 👯 I’m looking to collaborate on any web development or java projects.-->
